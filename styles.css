@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    color: #01fc4c;
+}
+
+header {
+    background-color: #b516ff;
+    padding: 20px;
+    text-align: center;
+}
+
+h1, h2, h3 {
+    color: #15f501;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+#contact p {
+    margin: 5px 0;
+}
+
+#experience article, #education article {
+    margin-bottom: 15px;
+}
